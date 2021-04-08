@@ -129,8 +129,3 @@ obj
 appsettings.json
 local.settings.json
 .python_packages
-
-# h_stats_results
-h_stat*.csv
-tests\tdm\h_stats_csv_files\h_stat*.csv
-.tests\tdm\h_stats_csv_files\h_stat*.csv
